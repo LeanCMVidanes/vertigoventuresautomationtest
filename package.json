@@ -1,0 +1,17 @@
+{
+  "name": "cypress-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cyptest"
+  },
+  "author": "vidanes,lean",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.4"
+  },
+  "dependencies": {
+    "chance": "^1.1.8"
+  }
+}
